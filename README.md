@@ -22,19 +22,15 @@ Install required dependencies:
 ```bash
 pip install opencv-python pillow
 ```
-Open the notebook in JupyterLab or Jupyter Notebook environment.
+Open the Jupyter Lab Notebook, adjust the configuration cells (e.g., source folder, naming rules), and run the notebook.
 
-Adjust the configuration cells (e.g., source folder, naming rules).
+---
 
-Run the notebook.
+## Test
 
-🖼️ Figure 1 — QR Code for Quick Access
 Scan the QR code below to open this notebook’s GitHub repo or shared drive folder (e.g., Google Drive or Dropbox link):
 
 ![image](https://github.com/user-attachments/assets/75c224f1-4ead-41eb-ac3a-150ec90a51ac)
 
 
 Figure 1: QR code to access the project files and updates.
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
