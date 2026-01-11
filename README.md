@@ -1,25 +1,27 @@
-📘 README
-🔍 Project Overview
+# QR Reading Image Renamer
+
 Macro Image Renamer is a Jupyter Notebook designed to batch rename image files based on embedded metadata or predefined naming conventions. This tool is particularly useful for researchers, photographers, or laboratory technicians who handle large sets of image data and require a consistent and automated renaming pipeline.
 
-🧰 Features
-Recursive file renaming in directories
+---
 
-Supports image formats: .tif, .png, .jpg, etc.
+## Features
 
-Customizable renaming logic using image metadata or folder structure
+- Recursive file renaming in directories
+- Supports image formats: .tif, .png, .jpg, etc.
+- Customizable renaming logic using image metadata or folder structure
+- Logs renaming operations for auditing and troubleshooting
 
-Logs renaming operations for auditing and troubleshooting
+---
 
-🚀 Getting Started
+## Getting Started
+
 Clone this repository or download the notebook file.
 
 Install required dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install opencv-python pillow
+```
 Open the notebook in JupyterLab or Jupyter Notebook environment.
 
 Adjust the configuration cells (e.g., source folder, naming rules).
